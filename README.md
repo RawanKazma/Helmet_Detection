@@ -1,2 +1,2 @@
 # Helmet_Detection
-Detecting Helmets among workers
+Detecting Helmets or Hard-Hats among workers
